@@ -38,3 +38,35 @@
     position: relative;
     font-size: 115%;
 }
+
+
+
+
+
+.commonBlk {
+    border:  solid #7f00ff;
+    box-sizing: border-box;
+}
+
+.anoth{
+padding: 10px;
+font: "roboto", sans-serif;
+color: rgb(213, 98, 98);
+text-align: center;
+text-shadow: 4px 2px 0 rgba(0, 0, 0, 0.2);
+}
+
+.anothBlk1 {
+    background-image: (pink);
+}
+
+.anothBlk2 {
+    background-image: linear-gradient(45deg, rgb(192, 249, 255));
+}
+
+.anothBlk3 {
+    background-image: linear-gradient(45deg, rgb(208, 255, 192));
+}
+.commonBlk {
+    display: flex;
+}
